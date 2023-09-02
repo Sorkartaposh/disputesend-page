@@ -1,0 +1,1397 @@
+/*
+====================================
+large Screen - Others
+====================================
+*/
+@media screen and (min-width: 1201px) and (max-width: 1550px) {
+    .logo a img {
+        max-width:200px;
+    }
+    .menu-btn a {
+        font-size:25px;
+        width:100%;
+        max-width:200px;
+        min-height:60px;
+        border-radius:37px;
+        line-height:58px;
+        font-size:18px;
+    }
+    .menu-btn a img {
+        margin-right:8px;
+        max-width:15px;
+    }
+    .hero-area {
+        margin-top:40px;
+    }
+    .hero-left h1 {
+        font-size:50px;
+    }
+    .hero-left p {
+        font-size:17px;
+        color:#001704;
+        margin-top:20px;
+        margin-bottom:10px;
+    }
+    .hero-left a {
+        font-size:25px;
+        width:100%;
+        max-width:200px;
+        min-height:60px;
+        border-radius:37px;
+        line-height:58px;
+        font-size:18px;
+        margin-top:20px;
+    }
+    .hero-left a img {
+        margin-right:8px;
+        max-width:15px;
+    }
+    .hero-brand {
+        margin-top:40px;
+    }
+    .credit-area {
+        margin-top:90px;
+        width:85%;
+    }
+    .credit-header h2 {
+        font-size:30px;
+    }
+    .credit-header p {
+        font-size: 18px;
+    }
+    .c-item-text {
+        width:30%;
+        top:5%;
+        left:3%;
+    }
+    .c-item-text h3 {
+        font-size:20px;
+        margin-bottom:5px;
+    }
+    .c-item-text p {
+        font-size:14px;
+    }
+    .guarantee-item h3 {
+        font-size:30px;
+        margin-bottom:15px;
+    }
+    .guarantee-item p {
+        font-size:17px;
+    }
+    .guarantee-item  a {
+        font-size:25px;
+        width:100%;
+        max-width:200px;
+        min-height:60px;
+        border-radius:37px;
+        line-height:58px;
+        font-size:18px;
+    }
+    .guarantee-item a img {
+        margin-right:5px;
+        max-width:15px;
+    }
+
+    .donut {
+        position: absolute;
+        top:2%;
+        left:2%;
+    }
+    .donut2 {
+        position: absolute;
+        bottom:10%;
+        right:2%;
+    }
+    .step-header h2 {
+        font-size: 30px;
+    }
+    .step-header p {
+        font-size: 18px;
+        margin-bottom:35px;
+    }
+    .step-txt {
+        width:90%;
+    }
+    .step-txt h3 {
+        font-size: 18px;
+    }
+    .step-txt p {
+        font-size: 14px;
+    }
+    .fico-area {
+        padding-top:60px;
+        padding-bottom:250px;
+        margin-top:100px;
+    }
+    .fico-item ul li {
+        font-size:17px;
+    }
+    .fico-item h4 {
+        font-size:22px;
+    }
+    .fico-right h2 {
+        font-size:28px;
+    }
+    .fico-right p {
+        font-size:16px;
+    }
+    .fico-right > a {
+        font-size:25px;
+        width:100%;
+        max-width:200px;
+        min-height:60px;
+        border-radius:37px;
+        line-height:58px;
+        font-size:18px;
+        margin-top:20px;
+    }
+    .fico-right > a img {
+        margin-right:8px;
+        max-width:15px;
+    }
+    .fico-right-list ul li {
+        margin-bottom:10px;
+    }
+    .regain-area {
+        width:90%;
+    }
+
+    .regain-item > a {
+        font-size:25px;
+        width:100%;
+        max-width:200px;
+        min-height:60px;
+        border-radius:37px;
+        line-height:58px;
+        font-size:18px;
+        margin-top:15px;
+    }
+    .regain-item > a img {
+        margin-right:8px;
+        max-width:15px;
+    }
+    .regain-item h2 {
+        font-size:30px;
+    }
+    .regain-item p {
+        font-size:16px;
+        margin-top:10px;
+    }
+    .regain-content {
+        min-height:400px;
+    }
+    .regain-item > img {
+        width:42%;
+        position: absolute;
+        top:0;
+        right:-10px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+/*
+====================================
+Medium Screen - Others
+====================================
+*/
+@media screen and (min-width: 992px) and (max-width: 1200px) {
+    .logo i {
+        display: block;
+    }
+    .overlay .closebtn {
+        position: absolute;
+        top: 20px;
+        right: 45px;
+        font-size: 60px;
+      }
+    .menu-item {
+        display: none;
+    }
+    .menu-btn {
+        display: none;
+    }
+
+    .logo a img {
+        max-width:200px;
+    }
+    .menu-btn a {
+        font-size:25px;
+        width:100%;
+        max-width:200px;
+        min-height:60px;
+        border-radius:37px;
+        line-height:58px;
+        font-size:18px;
+    }
+    .menu-btn a img {
+        margin-right:8px;
+        max-width:15px;
+    }
+    .hero-area {
+        margin-top:40px;
+    }
+    .hero-left h1 {
+        font-size:40px;
+    }
+    .hero-left p {
+        font-size:15px;
+        margin-top:10px;
+        margin-bottom:10px;
+    }
+    .hero-left a {
+        font-size:25px;
+        width:100%;
+        max-width:200px;
+        min-height:60px;
+        border-radius:37px;
+        line-height:58px;
+        font-size:18px;
+        margin-top:20px;
+    }
+    .hero-order-2 {
+        order:2;
+        margin-top:50px;
+    }
+    .hero-left a img {
+        margin-right:8px;
+        max-width:15px;
+    }
+    .hero-brand {
+        margin-top:40px;
+        margin-bottom:40px;
+    }
+    .credit-area {
+        margin-top:50px;
+        width:85%;
+    }
+    .credit-header h2 {
+        font-size:30px;
+    }
+    .credit-header p {
+        font-size: 18px;
+    }
+    .c-item-text {
+        width:30%;
+        top:25%;
+        left:2%;
+    }
+    .c-item-text h3 {
+        font-size:20px;
+        margin-bottom:5px;
+    }
+    .c-item-text p {
+        font-size:14px;
+    }
+    .credit-item {
+        width: fit-content;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .gorder-2 {
+        order:2;
+    }
+    .guarantee-item {
+        text-align: center;
+    }
+    .guarantee-logo img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom:40px;
+    }
+    .guarantee-item h3 {
+        font-size:30px;
+        margin-bottom:15px;
+    }
+    .guarantee-item p {
+        font-size:17px;
+        margin-bottom: 0;
+    }
+    .guarantee-item  a {
+        font-size:25px;
+        width:100%;
+        max-width:200px;
+        min-height:60px;
+        border-radius:37px;
+        line-height:58px;
+        font-size:18px;
+    }
+    .guarantee-item a img {
+        margin-right:5px;
+        max-width:15px;
+    }
+
+    .donut {
+        position: absolute;
+        top:2%;
+        left:2%;
+    }
+    .donut2 {
+        position: absolute;
+        bottom:1%;
+        right:2%;
+    }
+    .step-header h2 {
+        font-size: 30px;
+    }
+    .step-header p {
+        font-size: 18px;
+        margin-bottom:35px;
+    }
+    .step-txt {
+        width:90%;
+    }
+    .step-txt h3 {
+        font-size: 18px;
+    }
+    .step-txt p {
+        font-size: 14px;
+    }
+    .step-img1 {
+        display: none;
+    }
+    .step-img2 {
+        display: none;
+    }
+    .step-item {
+        width: fit-content;
+        margin-bottom:25px;
+    }
+    .fico-area {
+        padding-top:60px;
+        padding-bottom:250px;
+        margin-top:100px;
+    }
+    .fico-item ul li {
+        font-size:17px;
+    }
+    .fico-item h4 {
+        font-size:22px;
+    }
+    .fico-right h2 {
+        font-size:28px;
+    }
+    .fico-right p {
+        font-size:16px;
+    }
+    .fico-right > a {
+        font-size:25px;
+        width:100%;
+        max-width:200px;
+        min-height:60px;
+        border-radius:37px;
+        line-height:58px;
+        font-size:18px;
+        margin-top:20px;
+    }
+    .fico-right > a img {
+        margin-right:8px;
+        max-width:15px;
+    }
+    .fico-right-list ul li {
+        margin-bottom:10px;
+    }
+    .fico-right {
+        margin-top:40px;
+    }
+    .regain-area {
+        width:90%;
+        margin-left: auto;
+        margin-right: auto;
+        position: static;
+        margin-top:120px;
+        margin-bottom:120px;
+    }
+    .fico-area {
+        padding-top:90px;
+        padding-bottom:90px;
+        margin-top:80px;
+    }
+    .regain-item > a {
+        font-size:25px;
+        width:100%;
+        max-width:200px;
+        min-height:60px;
+        border-radius:37px;
+        line-height:58px;
+        font-size:18px;
+        margin-top:15px;
+    }
+    .regain-item > a img {
+        margin-right:8px;
+        max-width:15px;
+    }
+    .regain-item h2 {
+        font-size:30px;
+    }
+    .regain-item p {
+        font-size:16px;
+        margin-top:10px;
+    }
+    .regain-content {
+        min-height:350px;
+    }
+    .regain-item img {
+        display: none;
+    }
+    .footer-item {
+        margin-bottom:40px;
+    }
+    .copyright-text {
+        margin-top:0;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+/*
+====================================
+Small Screen - Tablate
+====================================
+*/
+@media screen and (min-width: 768px) and (max-width: 991px) {
+    .overlay .closebtn {
+        position: absolute;
+        top: 10px;
+        right: 40px;
+        font-size: 60px;
+      }
+    .logo i {
+        display: block;
+    }
+    .menu-item {
+        display: none;
+    }
+    .menu-btn {
+        display: none;
+    }
+
+
+    .logo a img {
+        max-width:200px;
+    }
+    .menu-btn a {
+        font-size:25px;
+        width:100%;
+        max-width:200px;
+        min-height:60px;
+        border-radius:37px;
+        line-height:58px;
+        font-size:18px;
+    }
+    .menu-btn a img {
+        margin-right:8px;
+        max-width:15px;
+    }
+    .hero-area {
+        margin-top:40px;
+    }
+    .hero-left h1 {
+        font-size:40px;
+    }
+    .hero-left p {
+        font-size:15px;
+        margin-top:10px;
+        margin-bottom:10px;
+    }
+    .hero-left a {
+        font-size:25px;
+        width:100%;
+        max-width:200px;
+        min-height:60px;
+        border-radius:37px;
+        line-height:58px;
+        font-size:18px;
+        margin-top:20px;
+    }
+    .hero-order-2 {
+        order:2;
+        margin-top:50px;
+    }
+    .hero-left a img {
+        margin-right:8px;
+        max-width:15px;
+    }
+    .hero-brand {
+        margin-top:40px;
+        margin-bottom:40px;
+    }
+    .credit-area {
+        margin-top:50px;
+        width:85%;
+    }
+    .credit-header h2 {
+        font-size:30px;
+    }
+    .credit-header p {
+        font-size: 18px;
+    }
+    .c-item-text {
+        width:30%;
+        top:25%;
+        left:2%;
+    }
+    .c-item-text h3 {
+        font-size:20px;
+        margin-bottom:5px;
+    }
+    .c-item-text p {
+        font-size:14px;
+    }
+    .credit-item {
+        width: fit-content;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .gorder-2 {
+        order:2;
+    }
+    .guarantee-item {
+        text-align: center;
+    }
+    .guarantee-logo img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom:40px;
+    }
+    .guarantee-item h3 {
+        font-size:30px;
+        margin-bottom:15px;
+    }
+    .guarantee-item p {
+        font-size:17px;
+        margin-bottom: 0;
+    }
+    .guarantee-item  a {
+        font-size:25px;
+        width:100%;
+        max-width:200px;
+        min-height:60px;
+        border-radius:37px;
+        line-height:58px;
+        font-size:18px;
+    }
+    .guarantee-item a img {
+        margin-right:5px;
+        max-width:15px;
+    }
+
+    .donut {
+        position: absolute;
+        top:2%;
+        left:2%;
+    }
+    .donut2 {
+        position: absolute;
+        bottom:1%;
+        right:2%;
+    }
+    .step-header h2 {
+        font-size: 30px;
+    }
+    .step-header p {
+        font-size: 18px;
+        margin-bottom:35px;
+    }
+    .step-txt {
+        width:90%;
+    }
+    .step-txt h3 {
+        font-size: 18px;
+    }
+    .step-txt p {
+        font-size: 14px;
+    }
+    .step-img1 {
+        display: none;
+    }
+    .step-img2 {
+        display: none;
+    }
+    .step-item {
+        width: fit-content;
+        margin-bottom:25px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .fico-area {
+        padding-top:60px;
+        padding-bottom:250px;
+        margin-top:100px;
+    }
+    .fico-item ul li {
+        font-size:17px;
+    }
+    .fico-item h4 {
+        font-size:22px;
+    }
+    .fico-right h2 {
+        font-size:28px;
+    }
+    .fico-right p {
+        font-size:16px;
+    }
+    .fico-right > a {
+        font-size:25px;
+        width:100%;
+        max-width:200px;
+        min-height:60px;
+        border-radius:37px;
+        line-height:58px;
+        font-size:18px;
+        margin-top:20px;
+    }
+    .fico-right > a img {
+        margin-right:8px;
+        max-width:15px;
+    }
+    .fico-right-list ul li {
+        margin-bottom:10px;
+    }
+    .fico-right {
+        margin-top:40px;
+    }
+    .guarantee-area {
+        width:100%;
+    }
+    .regain-area {
+        width:90%;
+        margin-left: auto;
+        margin-right: auto;
+        position: static;
+        margin-top:120px;
+        margin-bottom:120px;
+    }
+    .fico-area {
+        padding-top:90px;
+        padding-bottom:90px;
+        margin-top:80px;
+    }
+    .regain-item > a {
+        font-size:25px;
+        width:100%;
+        max-width:200px;
+        min-height:60px;
+        border-radius:37px;
+        line-height:58px;
+        font-size:18px;
+        margin-top:15px;
+    }
+    .regain-item > a img {
+        margin-right:8px;
+        max-width:15px;
+    }
+    .regain-item h2 {
+        font-size:30px;
+    }
+    .regain-item p {
+        font-size:16px;
+        margin-top:10px;
+    }
+    .regain-item {
+        text-align: center;
+        width:100%;
+    }
+    .regain-content {
+        min-height:350px;
+    }
+    .regain-item img {
+        display: none;
+    }
+    .footer-item {
+        margin-bottom:40px;
+    }
+    .copyright-text {
+        margin-top:0;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+/*
+====================================
+Small Screen - Small Mobile
+====================================
+*/
+@media screen and  (min-width: 576px) and  (max-width: 767px) {
+    .overlay .closebtn {
+        position: absolute;
+        top: 20px;
+        right: 45px;
+        font-size: 60px;
+      }
+      .menu-item {
+        display: none;
+    }
+    .menu-btn {
+        display: none;
+    }
+    .logo i {
+        display: block;
+    }
+
+    .logo a img {
+        max-width:200px;
+    }
+    .menu-btn a {
+        font-size:25px;
+        width:100%;
+        max-width:200px;
+        min-height:60px;
+        border-radius:37px;
+        line-height:58px;
+        font-size:18px;
+    }
+    .menu-btn a img {
+        margin-right:8px;
+        max-width:15px;
+    }
+    .hero-area {
+        margin-top:40px;
+    }
+    .hero-left h1 {
+        font-size:30px;
+    }
+    .hero-left p {
+        font-size:13px;
+        margin-top:10px;
+        margin-bottom:10px;
+    }
+    .hero-left a {
+        width:100%;
+        max-width:200px;
+        min-height:60px;
+        border-radius:37px;
+        line-height:58px;
+        font-size:18px;
+        margin-top:20px;
+    }
+    .hero-order-2 {
+        order:2;
+        margin-top:50px;
+    }
+    .hero-left a img {
+        margin-right:8px;
+        max-width:15px;
+    }
+    .hero-brand {
+        margin-top:40px;
+        margin-bottom:40px;
+    }
+    .credit-area {
+        margin-top:50px;
+        width:85%;
+    }
+    .credit-header h2 {
+        font-size:25px;
+    }
+    .credit-header p {
+        font-size: 18px;
+    }
+    .c-item-text {
+        width:30%;
+        top:12%;
+        left:2%;
+    }
+    .c-item-text h3 {
+        font-size:18px;
+        margin-bottom:5px;
+    }
+    .c-item-text p {
+        font-size:12px;
+    }
+    .credit-item {
+        width: fit-content;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .gorder-2 {
+        order:2;
+    }
+    .guarantee-item {
+        text-align: center;
+    }
+    .guarantee-logo img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom:40px;
+    }
+    .guarantee-item h3 {
+        font-size:25px;
+        margin-bottom:15px;
+    }
+    .guarantee-item p {
+        font-size:14px;
+        margin-bottom: 0;
+    }
+    .guarantee-item  a {
+        width:100%;
+        max-width:200px;
+        min-height:60px;
+        border-radius:37px;
+        line-height:58px;
+        font-size:18px;
+    }
+    .guarantee-item a img {
+        margin-right:5px;
+        max-width:15px;
+    }
+
+    .donut {
+        position: absolute;
+        top:2%;
+        left:2%;
+    }
+    .donut2 {
+        position: absolute;
+        bottom:1%;
+        right:2%;
+    }
+    .step-header h2 {
+        font-size: 25px;
+    }
+    .step-header p {
+        font-size: 14px;
+        margin-bottom:35px;
+    }
+    .step-txt {
+        width:90%;
+    }
+    .step-txt h3 {
+        font-size: 18px;
+    }
+    .step-txt p {
+        font-size: 14px;
+    }
+    .step-img1 {
+        display: none;
+    }
+    .step-img2 {
+        display: none;
+    }
+    .step-item {
+        width: fit-content;
+        margin-bottom:25px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .fico-area {
+        padding-top:60px;
+        padding-bottom:250px;
+        margin-top:100px;
+    }
+    .fico-item ul li {
+        font-size:17px;
+    }
+    .fico-item h4 {
+        font-size:20px;
+    }
+    .fico-right h2 {
+        font-size:25px;
+    }
+    .fico-right p {
+        font-size:14px;
+    }
+    .fico-right > a {
+        width:100%;
+        max-width:200px;
+        min-height:60px;
+        border-radius:37px;
+        line-height:58px;
+        font-size:18px;
+        margin-top:20px;
+    }
+    .fico-right > a img {
+        margin-right:8px;
+        max-width:15px;
+    }
+    .fico-right-list ul li {
+        margin-bottom:10px;
+    }
+    .fico-right {
+        margin-top:40px;
+    }
+    .guarantee-area {
+        width:100%;
+    }
+    .regain-area {
+        width:90%;
+        margin-left: auto;
+        margin-right: auto;
+        position: static;
+        margin-top:120px;
+        margin-bottom:120px;
+    }
+    .fico-area {
+        padding-top:90px;
+        padding-bottom:90px;
+        margin-top:80px;
+    }
+    .regain-item > a {
+        width:100%;
+        max-width:200px;
+        min-height:60px;
+        border-radius:37px;
+        line-height:58px;
+        font-size:18px;
+        margin-top:15px;
+    }
+    .regain-item > a img {
+        margin-right:8px;
+        max-width:15px;
+    }
+    .regain-item h2 {
+        font-size:25px;
+    }
+    .regain-item p {
+        font-size:14px;
+        margin-top:10px;
+    }
+    .regain-item {
+        text-align: center;
+        width:100%;
+    }
+    .regain-content {
+        min-height:350px;
+    }
+    .regain-item img {
+        display: none;
+    }
+    .footer-item {
+        margin-bottom:40px;
+    }
+    .copyright-text {
+        margin-top:0;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+/*
+====================================
+xtra Small Screen - Mobile
+====================================
+*/
+@media screen and (max-width: 575px) {
+    .overlay .closebtn {
+        position: absolute;
+        top: 20px;
+        right: 45px;
+        font-size: 60px;
+      }
+      .menu-item {
+        display: none;
+    }
+    .menu-btn {
+        display: none;
+    }
+    .logo i {
+        display: block;
+    }
+    .logo a img {
+        max-width:130px;
+    }
+    .menu-btn a {
+        font-size:25px;
+        width:100%;
+        max-width:200px;
+        min-height:60px;
+        border-radius:37px;
+        line-height:58px;
+        font-size:18px;
+    }
+    .menu-btn a img {
+        margin-right:8px;
+        max-width:15px;
+    }
+    .hero-area {
+        margin-top:40px;
+    }
+    .hero-left h1 {
+        font-size:20px;
+    }
+    .hero-left p {
+        font-size:10px;
+        margin-top:10px;
+        margin-bottom:10px;
+    }
+    .hero-left a {
+        width:100%;
+        max-width:200px;
+        min-height:60px;
+        border-radius:37px;
+        line-height:58px;
+        font-size:18px;
+        margin-top:10px;
+    }
+    .hero-order-2 {
+        order:2;
+        margin-top:50px;
+    }
+    .hero-left a img {
+        margin-right:8px;
+        max-width:15px;
+    }
+    .hero-brand {
+        margin-top:40px;
+        margin-bottom:40px;
+    }
+    .credit-area {
+        margin-top:50px;
+        width:100%;
+    }
+    .credit-header h2 {
+        font-size:20px;
+        margin: 0;
+    }
+    .credit-header p {
+        font-size: 12px;
+        margin: 0;
+    }
+    .credit-header {
+        margin-bottom:30px;
+    }
+    .c-item-text {
+        width:40%;
+        top:10%;
+        left:2%;
+    }
+    .c-item-text h3 {
+        font-size:12px;
+        margin-bottom:5px;
+    }
+    .c-item-text p {
+        font-size:10px;
+    }
+    .credit-item {
+        width: fit-content;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .gorder-2 {
+        order:2;
+    }
+    .guarantee-item {
+        text-align: center;
+    }
+    .guarantee-logo img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom:40px;
+    }
+    .guarantee-item h3 {
+        font-size:17px;
+        margin-bottom:15px;
+    }
+    .guarantee-item p {
+        font-size:10px;
+        margin-bottom: 0;
+    }
+    .guarantee-item  a {
+        width:100%;
+        max-width:190px;
+        min-height:40px;
+        border-radius:37px;
+        line-height:58px;
+        font-size:14px;
+    }
+    .guarantee-item a img {
+        margin-right:5px;
+        max-width:10px;
+    }
+    .guarantee-logo img:first-of-type{
+        width:40%;
+    }
+    .guarantee-area {
+        margin-top:50px;
+    }
+    .g-row {
+        border-radius: 0;
+        padding-top: 35px;
+        padding-bottom: 30px;
+        position: relative;
+    }
+    .donut {
+        position: absolute;
+        top:2%;
+        left:2%;
+    }
+    .donut2 {
+        position: absolute;
+        bottom:1%;
+        right:2%;
+    }
+    .step-area {
+        margin-top:50px;
+    }
+    .step-header h2 {
+        font-size: 18px;
+    }
+    .step-header p {
+        font-size: 10px;
+        margin-bottom:35px;
+    }
+    .step-txt {
+        width:90%;
+    }
+    .step-txt h3 {
+        font-size: 16px;
+    }
+    .step-txt p {
+        font-size: 10px;
+    }
+    .step-img1 {
+        display: none;
+    }
+    .step-img2 {
+        display: none;
+    }
+    .step-item {
+        width: fit-content;
+        margin-bottom:25px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .fico-area {
+        padding-top:30px !important;
+        padding-bottom:50px !important;
+        margin-top:100px;
+    }
+    .fico-item ul li {
+        font-size:17px;
+    }
+    .fico-item h4 {
+        font-size:17px !important;
+    }
+    .fico-right h2 {
+        font-size:18px !important;
+    }
+    .fico-right p {
+        font-size:12px !important;
+    }
+    .fico-right > a {
+        width:100%;
+        max-width:200px;
+        min-height:60px;
+        border-radius:37px;
+        line-height:58px;
+        font-size:18px;
+        margin-top:20px;
+    }
+    .fico-right > a img {
+        margin-right:8px;
+        max-width:15px;
+    }
+    .fico-right-list ul li {
+        margin-bottom:10px;
+    }
+    .fico-right {
+        margin-top:40px;
+    }
+    .fico-item  {
+        max-width:100%;
+    }
+    .guarantee-area {
+        width:100%;
+    }
+    .regain-area {
+        width:100%;
+        margin-left: auto;
+        margin-right: auto;
+        position: static;
+        margin-top:120px;
+        margin-bottom:120px;
+    }
+    .fico-area {
+        padding-top:90px;
+        padding-bottom:90px;
+        margin-top:0px;
+    }
+    .regain-item > a {
+        width:100%;
+        max-width:200px;
+        min-height:60px;
+        border-radius:37px;
+        line-height:58px;
+        font-size:18px;
+        margin-top:15px;
+    }
+ 
+    .regain-item > a img {
+        margin-right:8px;
+        max-width:15px;
+    }
+    .regain-item h2 {
+        font-size:18px;
+    }
+    .regain-item p {
+        font-size:10px;
+        margin-top:10px;
+    }
+    .regain-item {
+        text-align: center;
+        width:100%;
+    }
+    .regain-content {
+        min-height:300px;
+    }
+    .regain-item img {
+        display: none;
+    }
+    .footer-item {
+        margin-bottom:40px;
+    }
+    .copyright-text {
+        margin-top:0;
+    }
+   
+
+    .fico-item img {
+        width:25px;
+        position: absolute;
+        top: 33%;
+        left: 2%;
+        border:1px solid #fff;
+        border-radius:50%;
+    }
+    .fico-right-list {
+        display: flex;
+        margin-top: 25px;
+        flex-direction:column;
+    }
+    .hero-brand a img {
+        width:50px;
+    }
+    .overlay-content a {
+        font-size:20px;
+    }
+    .overlay .closebtn {
+        position: absolute;
+        top: 0px;
+        right:15px;
+        font-size: 60px;
+    }
+    footer {
+        width:100%;
+    }
+   .f-logo img {
+        display: block;
+        width:150px;
+   }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
